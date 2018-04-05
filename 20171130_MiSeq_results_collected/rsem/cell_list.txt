@@ -1,0 +1,12 @@
+HEK_12samples/S18
+HEK_12samples/S12
+HEK_12samples/S5
+HEK_12samples/S2
+HEK_12samples/S6
+HEK_12samples/S1
+HEK_12samples/S14
+HEK_12samples/S3
+HEK_12samples/S13
+HEK_12samples/S17
+HEK_12samples/S7
+HEK_12samples/S10
